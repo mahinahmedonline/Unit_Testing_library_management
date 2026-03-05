@@ -27,11 +27,5 @@ The test suite structure explicitly maps tests against the application, verifyin
 - **Business Logic Services**: `LibraryTest`, `AuthenticationServiceTest`, `ReservationTest`, `TransactionTest`
 - **Helper Utilities**: `DateUtilsTest`, `IDGeneratorTest`, `FineCalculatorTest`, `FileManagerTest`, `ReportGeneratorTest`
 
-## 📝 Example Test Case: `BookTest.java` (Excerpts)
-A brief snapshot of the rigorous methodologies applied during the implementation:
-- `testBorrowBookUntilFailure()`: Asserts that a book's quantity stringently stops at exactly 0, preventing logical underflows in inventory.
-- `testNegativeIncreaseAndDecreaseQuantity()`: Ensures system stability against erroneous or dynamically injected negative modifications.
-- `testReturnBookWhenAlreadyAtMax()`: Pre-emptively halts integer overflow or inventory synchronization mismatch during unexpected multi-return sequences.
-
 ---
 *This repository serves as a portfolio demonstration of my commitment to delivering defect-free, reliable, and fundamentally maintainable software through industry-standard rigorous Quality Assurance practices.*

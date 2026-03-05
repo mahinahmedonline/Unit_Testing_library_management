@@ -1,7 +1,7 @@
 # Unit Testing Library Management System
 
 ## Overview
-This project is a comprehensive **Library Management System** developed with a primary focus on **Software Quality Assurance (SQA)** and robust **Unit Testing**. As an SQA professional, I have designed this testing suite to showcase my ability to implement rigorous tests, ensure high code coverage, and apply varied testing methodologies to validate complex back-end Java logic.
+This project is a comprehensive **Library Management System** developed with a primary focus on **Software Quality Assurance (SQA)** and robust **Unit Testing**. As an SQA enthusiast, I have designed this testing suite to showcase my ability to implement rigorous tests, ensure high code coverage, and apply varied testing methodologies to validate complex back-end Java logic.
 
 ## Quality Assurance Highlights
 - **100% Core Logic Coverage**: Every critical class, service, and utility in the system has a corresponding, dedicated test class. By separating tests mirroring the package structure, the QA strategy ensures unit isolation.
